@@ -7,8 +7,6 @@
 //  http://urbanapps.com
 //
 
-
-#import <Cocoa/Cocoa.h>
 #import <Foundation/Foundation.h>
 #import <StoreKit/StoreKit.h>
 
